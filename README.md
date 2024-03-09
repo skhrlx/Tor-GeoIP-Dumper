@@ -1,6 +1,6 @@
 # TOR GeoIP Updater
 
-This script automates the process of updating the GeoIP data for your project. Follow the steps below to ensure you have the latest GeoIP data.
+This script automates the process of updating the GeoIP data for tor expert bundle. Follow the steps below to ensure you have the latest GeoIP data.
 
 ## Instructions:
 
